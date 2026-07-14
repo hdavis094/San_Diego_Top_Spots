@@ -1,9 +1,19 @@
-$(document).ready(function () {
-    $.getJSON('data.json').done(function(product) {
-        
+
+    
+$.getJSON('data.json').done(function(data) {
+    
+    data.forEach(function(place) {
+        const tableRow = `
+        <tr>
+            <td>${place.name}</td>
+            <td>${place.description}</td>
+            <td><a href="https://www.google.com/maps?q=${place.location[0]},${place.location[1]}" target="_blank"><button class="map-button">Open in Google Maps</button></a></td>
+        </tr>
+        `;
+        $("#places-table").append(tableRow);
 
     });
 });
+    
 
-// Fetching data from a public internet API
-//$.getJSON('https://api.weatherapi.com/v1/current.json?key=123&q=London')
+

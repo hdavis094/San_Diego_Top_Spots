@@ -1,0 +1,45 @@
+
+$primaryBtn: rgb(149, 178, 235);
+$primaryCellColor:#dddddd;
+$secondaryColor:rgb(192, 222, 241);
+$borderOutline:1px solid black;
+
+h1 {
+    text-align:center;
+    text-decoration: underline;
+    
+    }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color:$secondaryColor;
+    border: $borderOutline;
+    tr:nth-child(odd) {
+        background-color: $primaryCellColor;
+        border: $borderOutline;
+    } 
+    }
+
+thead {
+    background-color:$secondaryColor;
+    }    
+td {
+            
+    text-align: left;
+    padding: 8px;
+    border: $borderOutline;
+    }
+    
+th {
+    background-color: $secondaryColor;
+    text-decoration: underline;
+    }
+    
+.map-button {
+    background-color: $primaryBtn;
+    &:hover {
+        background-color: $secondaryColor;
+    }
+}

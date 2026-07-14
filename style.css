@@ -1,23 +1,38 @@
-
-
 h1 {
-    text-align:center;
-    text-decoration: underline;
+  text-align: center;
+  text-decoration: underline;
 }
 
 table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: rgb(192, 222, 241);
+  border: 1px solid black;
+}
+table tr:nth-child(odd) {
+  background-color: #dddddd;
+  border: 1px solid black;
 }
 
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+thead {
+  background-color: rgb(192, 222, 241);
 }
 
-tr:nth-child(even) {
-    background-color: #dddddd;
+td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid black;
 }
 
+th {
+  background-color: rgb(192, 222, 241);
+  text-decoration: underline;
+}
+
+.map-button {
+  background-color: rgb(149, 178, 235);
+}
+.map-button:hover {
+  background-color: rgb(192, 222, 241);
+}/*# sourceMappingURL=style.css.map */

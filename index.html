@@ -5,26 +5,20 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
     <title>San Diego Top Spots</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
     <h1>San Diego Top Spots</h1>
     <table>
-        <tr>
+        <thead>
+            <tr>
             <th>Name</th>
             <th>Description</th>
             <th>Link</th>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td><button>Open in Google Maps</button></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>    
+        </thead>
+        <tbody id="places-table"></tbody>
     </table>
 
     <script src="main.js"></script>

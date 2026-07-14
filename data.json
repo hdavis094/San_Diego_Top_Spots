@@ -1,27 +1,33 @@
 [{
     "name": "Go For A Run In The San Diego Zoo Safari Park",
     "description": "A half marathon on a trail running through the Safari Park, where animals roam free? Sounds like a barrel of monkeys (or rhinos).",
-    "location": [33.09745, -116.99572] 
+    "location": [33.09745, -116.99572],
+    "url": "https://www.google.com/maps/place/33%C2%B005'50.8%22N+116%C2%B059'44.6%22W/@33.09745,-116.9982949,17z/data=!3m1!4b1!4m4!3m3!8m2!3d33.09745!4d-116.99572?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D" 
 }, {
     "name": "Play Tourist For The Afternoon With A Stroll Around Seaport Village",
     "description": "It may be a touristy spot with lots of tourist trap shops selling hats and sunglasses, but it’s definitely worth the walk to get great views of the harbor and Coronado, or just to enjoy the breeze.",
-    "location": [32.70922, -117.17007]
+    "location": [32.70922, -117.17007],
+    "url":"https://www.google.com/maps/place/32%C2%B042'33.2%22N+117%C2%B010'12.3%22W/@32.70922,-117.1726449,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.70922!4d-117.17007?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
 }, {
     "name": "Get Your Ultimate Geek On At Comic Con In July",
     "description": "Holy geekfest Batman. Every year, downtown San Diego turns into the biggest PR campaign Hollywood can buy. While it may be big business for Hollywood, it’s even bigger business for all of geek-kind. Comics, movies, collectables, cosplay, contests, it’s all here and so much more. Even if you can’t get a ticket, it’s worth stopping by the free events outside the convention center, and it’s always fun to see the cosplayers in the wild.",
-    "location": [32.70648, -117.16614]
+    "location": [32.70648, -117.16614],
+    "url":"https://www.google.com/maps/place/32%C2%B042'23.3%22N+117%C2%B009'58.1%22W/@32.70648,-117.1687149,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.70648!4d-117.16614?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
 }, {
     "name": "Take A Beer Tour At Stone Brewery",
     "description": "This special behind the scenes tour, lead by an “indoctrination specialist,” takes you behind the curtain of Stone’s diabolically tasty brews—most importantly it comes with free samples! Protip: tickets are first come, first serve and at $3 a pop for a 45-minute tour it’s a popular event, so be sure to get there early.",
-    "location": [33.115875, -117.120022]
+    "location": [33.115875, -117.120022],
+    "url":"https://www.google.com/maps/place/33%C2%B006'57.2%22N+117%C2%B007'12.1%22W/@33.115875,-117.1225969,17z/data=!3m1!4b1!4m4!3m3!8m2!3d33.115875!4d-117.120022?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
 }, {
     "name": "Grub Like The Localvores Do With Dinner At Café 21",
     "description": "With two locations (Downtown and North Park) Café 21 serves some delicious locally sourced, ethically raised hippie food. Great for brunch or dinner and whatever you do, get the sangria!",
-    "location": [32.715382, -117.160545]
+    "location": [32.715382, -117.160545],
+    "url":"https://www.google.com/maps/place/32%C2%B042'55.4%22N+117%C2%B009'38.0%22W/@32.715382,-117.1631199,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.715382!4d-117.160545?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
 }, {
     "name": "Take A Surf Lesson At Surfari",
     "description": "Hey there shark bait, want to hit the waves but not sure how? Check out Surfari Surf for lessons, camps, or just a board rental.",
-    "location": [32.783761, -117.252811]
+    "location": [32.783761, -117.252811],
+    "url":"https://www.google.com/maps/place/32%C2%B047'01.5%22N+117%C2%B015'10.1%22W/@32.783761,-117.2553859,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.783761!4d-117.252811?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D"
 }, {
     "name": "Take In The Epic Views At Torrey Pines",
     "description": "Get up early on a Saturday (for once) and head out to La Jolla for some hiking at Torrey Pines State Reserve. Take the short Guy Fleming Trail for great views of the ocean, or the Broken Hill Trail for a more dramatic view of the hillside.",
